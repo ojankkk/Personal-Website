@@ -3,11 +3,10 @@ export default function Contact() {
 		<section id="contact" className="space-y-6">
 			<h3 className="text-sm uppercase tracking-wider font-medium text-zinc-500 dark:text-zinc-300">Contact</h3>
 			<p className="text-zinc-800 dark:text-zinc-200">
-				Feel free to reach out if you want to collaborate on a project, need help with football development, or just
-				want to connect.
+				Jika Ingin Joki AFK Fish It Bisa Hubungin Saya melewati email dibawah
 			</p>
 			<div className="flex gap-x-6 mt-6 flex-col md:flex-row gap-y-2">
-				<span className="text-zinc-500 dark:text-zinc-300">amorim@gmail.com</span>
+				<span className="text-zinc-500 dark:text-zinc-300">Azhima876@gmail.com</span>
 				<a href="https://www.youtube.com/manutd" className="text-zinc-500 dark:text-zinc-300 flex items-center gap-x-2.5">
 					<svg width="18" height="19" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
