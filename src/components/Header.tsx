@@ -12,14 +12,14 @@ export default function Header() {
       />
       <div>
         <h1 className="text-3xl font-medium text-zinc-900 dark:text-zinc-50 mb-1.5">
-          Ruben Amorim
+          Fauzan Azhima Ardani
         </h1>
         <h2 className="text-lg font-light text-zinc-500 dark:text-zinc-300">
-          Pelatih Manchester United dan mantan pemain sepak bola
+          Pemancing Fish It Roblox
         </h2>
         <div className="flex gap-x-6 mt-6 flex-col md:flex-row gap-y-2">
           <span className="text-zinc-500 dark:text-zinc-300">
-            Manchester United FC
+            Dapat Secret itu kebahagian semua orang, tapi kasian sama yang masi ngekost di isle sama temple 
           </span>
         </div>
       </div>
