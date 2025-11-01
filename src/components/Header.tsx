@@ -5,7 +5,7 @@ export default function Header() {
     <header className=" flex gap-x-8 flex-col md:flex-row">
       <Image
         className="size-[100px] rounded-full"
-        src="/amorim.jpg"
+        src="/image.png"
         alt="picture of author"
         width={100}
         height={100}
