@@ -14,7 +14,7 @@ export default function Projects() {
 					height={500}
 				/>
 				<div className="w-full">
-					<h4 className="font-medium text-zinc-800 dark:text-zinc-100 mb-2">fesfes</h4>
+					<h4 className="font-medium text-zinc-800 dark:text-zinc-100 mb-2">Tampilan Admin Sederhana</h4>
 					<p className="text-sm text-zinc-500 dark:text-zinc-300 loading-relaxed">
 						Ini adalah Project UTS pada semester 4 pada mata kuliah Pemograman Web. disini saya membuat tampilan sederhana
 						apabila jika admin masuk kedalam website yang dimana ada tampilan khusus pengguna dan admin, tetapi saya membuat
